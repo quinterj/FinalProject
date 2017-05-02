@@ -1,0 +1,21 @@
+/*Img {
+  display: flex;
+  width: 20rem;
+  height: 10rem;
+  flex-direction: row;
+  list-style: none;
+}*/
+
+/*Video {*/
+  /*flex: 1;*/
+  /*display: flex;*/
+/*  width: 35rem;
+  height: 30rem; */
+  /*flex-direction: row;*/
+  /*list-style: none; */
+/*}*/
+
+.SoccerTeam .title {
+	font-weight: bold;
+	font-family: "Apple Chancery", cursive;
+}

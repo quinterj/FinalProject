@@ -1,0 +1,19 @@
+{
+  "soccerTeams": [{
+    "team": "Real Madrid",
+    "topGoalScorer": "Cristiano Ronaldo",
+    "video": "./vid/ronaldo.mp4"
+  }, {
+    "team": "Atletico Madrid",
+    "topGoalScorer": "Antoine Griezmann",
+    "video": "./vid/griezmann.mp4"
+  }, {
+    "team": "Juventus",
+    "topGoalScorer": "Gonzalo Higuain",
+    "video": "./vid/higuain.mp4"
+  }, {
+    "team": "Monaco",
+    "topGoalScorer": "Radamel Falcao",
+    "video": "./vid/falcao.mp4"
+  }]
+}
